@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "hexo": {
-    "version": "7.0.0"
+    "version": "7.3.0"
   },
   "description": "馨络智康心理健康管理平台博客",
   "main": "index.js",
