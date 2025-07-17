@@ -1,0 +1,50 @@
+{
+  "name": "health-blog",
+  "version": "1.0.0",
+  "private": true,
+  "hexo": {
+    "version": "7.0.0"
+  },
+  "description": "馨络智康心理健康管理平台博客",
+  "main": "index.js",
+  "scripts": {
+    "build": "hexo generate",
+    "clean": "hexo clean",
+    "deploy": "hexo deploy",
+    "server": "hexo server",
+    "generate": "hexo generate",
+    "help": "hexo help",
+    "migrate": "hexo migrate",
+    "new": "hexo new",
+    "new_page": "hexo new page",
+    "new_post": "hexo new post",
+    "render": "hexo render",
+    "version": "hexo version"
+  },
+  "keywords": [
+    "心理健康",
+    "心理评估",
+    "五音芳疗",
+    "双心疾病",
+    "健康管理"
+  ],
+  "author": "馨络智康团队",
+  "license": "MIT",
+  "dependencies": {
+    "hexo": "^7.0.0",
+    "hexo-deployer-git": "^3.0.0",
+    "hexo-generator-archive": "^2.0.0",
+    "hexo-generator-category": "^2.0.0",
+    "hexo-generator-index": "^3.0.0",
+    "hexo-generator-tag": "^2.0.0",
+    "hexo-renderer-ejs": "^3.0.0",
+    "hexo-renderer-marked": "^6.0.0",
+    "hexo-renderer-stylus": "^3.0.0",
+    "hexo-server": "^3.0.0",
+    "hexo-theme-landscape": "^1.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
